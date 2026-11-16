@@ -23,8 +23,15 @@ window.quickquizData.config ={
     "hidePageButtons": false
   },
   "labels": {
-    "homeTitle": "Science - Graded questions examples",
-    "homeDescription": "<p>This quiz shows most graded question types available. Some important options, such as feedback, video, etc., are shown in other examples. </p><p>The right answer and the points scored will be displayed on the score page. In this example the wrong answers are penalized with -1 points.</p>",
+    "homeTitle": "Fen Bilimleri - Notlandırılmış soru örnekleri",
+    "homeDescription": "
+    <p>
+    Bu test, mevcut puanlama sistemine dahil olan soru tiplerinin çoğunu göstermektedir.
+    Geri bildirim, video vb. gibi bazı önemli seçenekler diğer örneklerde gösterilmiştir.
+    </p>
+    <p>
+    Doğru cevap ve kazanılan puanlar puan sayfasında gösterilecektir. Bu örnekte yanlış cevaplar -1 puanla cezalandırılmaktadır.
+     </p>",
     "startQuiz": "START",
     "mainTitle": "",
     "previousText": "Previous",

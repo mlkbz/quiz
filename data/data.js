@@ -26,7 +26,7 @@ window.quickquizData.config ={
     "homeTitle": "Fen Bilimleri - Notlandırılmış soru örnekleri",
     "homeDescription": "
     <p>
-    Bu test, mevcut puanlama sistemine dahil olan soru tiplerinin çoğunu göstermektedir.
+    Bu test, mevcut puanlama sistemine dahil olan soru tiplerinin çoğunu göstermektedirr.
     Geri bildirim, video vb. gibi bazı önemli seçenekler diğer örneklerde gösterilmiştir.
     </p>
     <p>
